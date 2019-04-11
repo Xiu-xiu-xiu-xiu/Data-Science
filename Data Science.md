@@ -13,3 +13,4 @@
 ### [Python for Data Science: Strings](https://github.com/xiuwenbo/Data-Science-Coaching/blob/master/Python%2Bfor%2BData%2BScience%2B1.2%2BStrings.ipynb)
 ### [Python for Data Science: Tuples](https://github.com/xiuwenbo/Data-Science/blob/master/Python%2Bfor%2BData%2BScience%2B1.3%2BTuples.ipynb)
 ### [Python for Data Science: Lists](https://github.com/xiuwenbo/Data-Science/blob/master/Python%2Bfor%2BData%2BScience%2B1.4%2BLists.ipynb)
+### [Python for Data Science: Sets](https://github.com/xiuwenbo/Data-Science/blob/master/Python%2Bfor%2BData%2BScience%2B1.5%2BSets.ipynb)
